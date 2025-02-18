@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denje
 - 👀 I’m interested in embeded systems
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python, css and javascript
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on python, css,Docker,SQL and javascript
 - 📫 How to reach me: send an emailto dzebudenzhe0@gmail.com
 
 <!---
