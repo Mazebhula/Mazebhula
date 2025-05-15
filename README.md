@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @denje
 - 👀 I’m interested in embeded systems
 - 🌱 I’m currently exploring mongoDb
-- 💞️ I’m looking to collaborate on python,java,css,Docker,postgreSQL and javascript
+- 👨🏾‍💻 TECH STACK: Python, Flask, Node, Java,HTML, CSS, Docker, SQL, Postman and Javascript
 - 📫 How to reach me: send an emailto dzebudenzhe@gmail.com
 
 <!---
